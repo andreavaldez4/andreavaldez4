@@ -5,10 +5,12 @@
 - 🧩 Building inclusive educational tools @ EduMakers
 - ♿️ Text-to-Braille & 3D-printable learning materials
 
+🌐 Check out my website: **[andreavaldez.vercel.app](https://andreavaldez.vercel.app/)**
+
 Let's connect and build something great together! 🚀
 
 
-## 🌐 Socials:
+## 📱 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andrea.vldzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andreavaldez-cs-engineer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valdezandrea2006@gmail.com) 
 
 # 💻 Tech Stack:
