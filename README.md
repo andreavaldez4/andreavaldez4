@@ -1,3 +1,5 @@
+![](https://link-de-tu-imagen.com/imagen.png)
+
 # 👋 Hi, I'm Andrea Valdez!
 
 - 🎓 19 y/o Computer Science student @ Tec de Monterrey
