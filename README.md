@@ -1,4 +1,4 @@
-![](https://link-de-tu-imagen.com/imagen.png)
+![](https://github.com/andreavaldez4/andreavaldez4/blob/main/assets/presentation-perfil.png?raw=true)
 
 # 👋 Hi, I'm Andrea Valdez!
 
